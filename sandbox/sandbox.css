@@ -561,3 +561,8 @@ video,
 
 .text-right {
   text-align: right; }
+
+iframe {
+  border: 1px solid #aaa;
+  height: 100vh;
+  width: 80vh; }
